@@ -469,7 +469,7 @@ const Page = () => {
                   <p className="text-gray-400 text-justify">Support Available</p>
                 </div>
                 <div className="stat-card space-y-3">
-                  <p className="stat-number text-4xl md:text-5xl font-bold text-red-600">15+</p>
+                  <p className="stat-number text-4xl md:text-5xl font-bold text-red-600">5+</p>
                   <p className="text-gray-400 text-justify">Years Experience</p>
                 </div>
               </div>
@@ -540,7 +540,7 @@ const Page = () => {
               </div>
               <div className="capability-card p-8 rounded-xl border border-white/10">
                 <div className="text-4xl font-bold text-red-600 mb-4">Expert Team</div>
-                <p className="text-gray-300 text-justify">Industry-certified professionals with 15+ years of experience ensuring your organization meets highest security standards.</p>
+                <p className="text-gray-300 text-justify">Industry-certified professionals with 5+ years of experience ensuring your organization meets highest security standards.</p>
               </div>
             </div>
           </div>
